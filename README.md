@@ -3,9 +3,7 @@
 
 # Instructions to run
 - check docker-compose is installed
-
-docker-compose --version
-
+-- docker-compose --version
 - run docker compose
-cd docker-compose-demo
-docker-compose up -d
+-- cd docker-compose-demo
+-- docker-compose up -d
