@@ -6,4 +6,4 @@
 -- docker-compose --version
 - run docker compose
 -- cd docker-compose-demo
--- docker-compose up -d
+-- docker compose up -d
